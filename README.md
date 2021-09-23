@@ -2,11 +2,11 @@
 
 Frontend Engineer.
 
-[![shippokun's github stats](https://github-readme-stats.vercel.app/api?username=shippokun&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![shippokun's github stats](https://github-readme-stats.vercel.app/api?username=shippokun&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-<div align="center">
+<div>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img align="center" src="https://github-profile-summary-cards-beryl.vercel.app/api/cards/repos-per-language?username=shippokun" width="280px" />
   </a>
