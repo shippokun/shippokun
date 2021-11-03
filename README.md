@@ -6,20 +6,6 @@ Frontend Engineer.
 
 ---
 
-<div>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards-beryl.vercel.app/api/cards/repos-per-language?username=shippokun" width="280px" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards-beryl.vercel.app/api/cards/most-commit-language?username=shippokun" width="280px" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards-beryl.vercel.app/api/cards/productive-time?username=shippokun" width="280px" />
-  </a>
-</div>
-
----
-
 ### My Skill📝
 
 - Developing web applications with Vue.js(Mainly use [composition-api](https://github.com/vuejs/composition-api))
