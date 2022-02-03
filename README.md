@@ -14,4 +14,5 @@ Frontend Engineer.
 
 ### Career👨‍💻
 
-- [Vega corporation Co., Ltd.](https://www.vega-c.com/) (2019/04 ~ )Frontend Engineer, Project Manager
+- [Vega corporation Co., Ltd.](https://www.vega-c.com/) (2019/04 ~ 2022/01)Frontend Engineer, Project Manager
+- [HRBrain, Inc.](https://www.hrbrain.co.jp/) (2022/02 ~ ) Frontend Engineer
