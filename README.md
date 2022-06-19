@@ -8,8 +8,8 @@ Frontend Engineer.
 
 ### My Skill📝
 
-- Developing web applications with Vue.js(Mainly use [composition-api](https://github.com/vuejs/composition-api))
-- State management with Vuex
+- Developing web applications with Vue.js(Mainly use [composition-api](https://github.com/vuejs/composition-api)), React.js
+- State management with Vuex, Redux, RTK
 - Writing tests with Jest
 
 ### Career👨‍💻
