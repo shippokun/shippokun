@@ -11,6 +11,8 @@ Frontend Engineer.
 - Developing web applications with Vue.js(Mainly use [composition-api](https://github.com/vuejs/composition-api)), React.js
 - State management with Vuex, Redux, RTK
 - Writing tests with Jest
+- Development with Github
+  - ex) Actions, Issues, PR, Repository management
 
 ### Career👨‍💻
 
